@@ -32,3 +32,18 @@ if is_Citizen:
     print(f"Ahamed Haseen is a {is_Citizen}")
 else:
     print(f"{name} is not a Citizen")
+
+
+print()
+#Questions
+username = "Haseen"
+password = "Haseen123"
+year = 2026
+pi = 3.14
+is_Admin = True
+
+print("Just a few Questions:")
+print(f"{username}'s pasword is {password}")
+print(f"The Current Year is {year}")
+print(f"The Value of Pi is {pi}")
+print(f"Is {username} an Admin? : {is_Admin}")
