@@ -1,4 +1,5 @@
 
+#name = int("Ahamed") # This will raise a ValueError
 name = "Ahamed"
 age = 22
 height = 5.9
