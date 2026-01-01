@@ -10,3 +10,9 @@ print("My Name is : ", name)
 print("My Age is: ", age)
 print("Am I a Student?: ", is_Student)
 print("My Height is: ", height)
+
+print()
+
+#Formatted string
+
+print(f"Hello {name}")
