@@ -1,8 +1,8 @@
-first_name = "Ahamed"
+first_name = "Ahamed" #string variable
 Last_name = "Haseen"
-age = 22
-is_Student = True
-height = 5.7
+age = 22 #integer variable
+is_Student = True #boolean variable
+height = 5.7 #float variable
 
 name = first_name + " " + Last_name
 
