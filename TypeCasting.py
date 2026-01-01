@@ -19,3 +19,8 @@ is_student = str(is_student)
 print(type(age))       # Output: <class 'float'>
 print(type(height))    # Output: <class 'int'>  
 print(type(is_student))# Output: <class 'str'>
+
+print()
+print(age)             # Output: 22.0
+print(height)          # Output: 5
+print(is_student)      # Output: True
