@@ -18,4 +18,11 @@ area = length * width
 #number lock + alt + 0178 = ²
 print(f"The area is {area} cm²")
 '''
-#Exercise = 
+#Exercise = Shopping Cart Program
+item = input("Enter the item you want to buy: ")
+price = float(input("Enter the price of the item: "))
+quantity = int(input("Enter the quantity you want to buy: "))
+
+total_cost = price * quantity
+
+print(f"You have purchased {quantity} {item}(s) for a total of ${total_cost}")
