@@ -1,12 +1,12 @@
 import math
 
-x = 9.9
+# x = 9.9
 
-# print(math.pi)
-# print(math.e) 
-# print(math.sqrt(x))
-# print(math.ceil(x))
-print(math.floor(x))    
+# # print(math.pi)
+# # print(math.e) 
+# # print(math.sqrt(x))
+# # print(math.ceil(x))
+# print(math.floor(x))    
 
 
 #a = 10
@@ -31,3 +31,20 @@ print(math.floor(x))
 # result = min(x, y, z) #minimum value
 
 # print(result)
+
+#Exercise
+
+# radius = float(input("Enter the radius of a circle: "))
+# circumference = 2 * math.pi * radius
+# print(f"The circumference is: {round(circumference,2)}")
+
+# radius = float(input("Enter the area of a circle: "))
+# area = math.pi * pow(radius, 2)
+# print(f"The area is: {round(area,2)} cm^2")
+
+a = float(input("Enter the Side of A : "))
+b = float(input("Enter the Side of B : "))
+
+c = math.sqrt(pow(a, 2) + pow(b, 2))
+
+print(f"Side C is : {round(c)}")
