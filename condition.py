@@ -7,7 +7,7 @@ elif age == 17:
     print(f"Hello {name}, You will be eligible to vote next year.")
 else:
     print(f"Hello {name}, You are not eligible to vote.")'''
-
+'''
 response = input("Do you want to continue? (Yes/No): ")
 
 if response == "Yes":
@@ -15,4 +15,11 @@ if response == "Yes":
 elif response == "No":
     print("Thank you for your time.")
 else:
-    print("Invalid input. Please respond with 'Yes' or 'No'.")
+    print("Invalid input. Please respond with 'Yes' or 'No'.")'''
+
+
+
+
+
+
+
